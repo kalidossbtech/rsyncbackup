@@ -6,7 +6,8 @@ Email : kalidossbtech@gmail.com
 usage: 
 
 After download this file make it  as  a executable by chmod command
-like chmod 755 rsyncbackup.sh
+like 
+chmod 755 rsyncbackup.sh
 and then to run this script use
 
 sh rsyncbackup.sh (or) source rsyncbackup.sh (or) . rsyncbackup.sh (or)  ./rsyncbackup.sh
